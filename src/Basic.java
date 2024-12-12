@@ -1,6 +1,6 @@
 /*hello world
 
-public class Main {
+public class Basic {
     public static void main(String[]args){
         System.out.println("hello world");
     }
@@ -8,7 +8,7 @@ public class Main {
 
 /*five friends
 
-public class Main {
+public class Basic {
     public static void main(String[]args){
         System.out.print("Ravi");
         System.out.print("Aman");
@@ -20,7 +20,7 @@ public class Main {
 
 /*five fav food name :new line
 
-public class Main {
+public class Basic {
     public static void main(String[]args){
         System.out.println("Dal");
         System.out.println("Rice");
@@ -32,7 +32,7 @@ public class Main {
 
 /*five city name :new line
 
-public class Main {
+public class Basic {
     public static void main(String[]args){
         System.out.println("Lucknow");
         System.out.println("Chennai");
